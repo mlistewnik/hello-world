@@ -1,5 +1,5 @@
 # hello-world
-First git hub repo for testing
+Deleted that.
 
 This is the readme file. I'm learning GH.
 
