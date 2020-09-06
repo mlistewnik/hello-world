@@ -1,3 +1,4 @@
+#Oblicza pole kwadratu, trójkąta i prostokąta naraz
 podstawa = float (input ("Podaj podstawę: "))
 wysokosc = float (input ("Podaj wysokość: "))
 
