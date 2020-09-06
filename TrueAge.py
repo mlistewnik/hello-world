@@ -1,3 +1,4 @@
+#Wyświetla "prawdziwy" wiek :D
 wiek =  int(input("Ile masz lat?\n"))
 if wiek == 18:
     print("Jesteś szczylem!")
